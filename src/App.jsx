@@ -1,8 +1,11 @@
 import React from 'react'
+import NumberGuessComponent from './NumberGuessComponent/NumberGuessComponent'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      < NumberGuessComponent/>
+    </div>
   )
 }
 
